@@ -19,3 +19,10 @@
 
 In  the analysis of the map shifts, the coordinates of Bruges show that this city is located in the
  dsm file 13. For the course of the assignment I will continue to work with the data series 13 to further locate the points of Bruges center.
+
+
+ ### Next step
+
+ Reading the geotiff of DSM 13 
+ Proccessing the Data of DSM 13 and try to zoom more in on the city of Bruge 
+ 
